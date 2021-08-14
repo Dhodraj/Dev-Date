@@ -1,0 +1,37 @@
+.container{
+    background-color: white;
+    height: 60vh;
+    width: 97vw;
+    display: grid;
+    place-items: center;
+    
+}
+.container__img{
+    height: 20vh;
+    object-fit: contain;
+}
+
+.container>p{
+    font-size: 34px !important;
+    font-weight: bolder;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(247, 243, 243)(180, 160, 160);
+    align-items: center;
+}
+
+.header__logo{
+    height: 40px;
+    object-fit: contain;
+}
+
+.header__icon{
+    padding: 20px;
+}
+
+.container__img{
+    border-radius: 10px;
+}

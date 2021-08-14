@@ -1,0 +1,48 @@
+.chatScreen__text{
+    margin-left: 10px;
+    background-color: lightgray;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.chatScreen__message{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.timestamp{
+    text-align: center;
+    padding: 20px;
+    color: gray;
+}
+
+.chatScreen__textUser{
+    margin-left: auto;
+    color: white;
+    background-color: #29b3cd;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.input{
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border: 1px solid lightgray;
+}
+
+.inputField{
+    flex: 1;
+    padding: 10px;
+    border: none;
+}
+
+.inputButton{
+    border: none;
+    margin-right: 20px;
+    background-color: whitesmoke;
+    font-weight: bolder;
+    color: #fe3d71;
+}
