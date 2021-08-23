@@ -1,5 +1,5 @@
-# Tinder-clone
+# Dev_Date
 
 Techstack: React.Js , Firebase , Material UI
 
-## [Dev Date](https://tinder-clone-ebc2e.web.app/)
+## [Explore live](https://tinder-clone-ebc2e.web.app/)
